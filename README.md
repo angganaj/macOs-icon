@@ -6,3 +6,4 @@
 <p align="center"><img src=os/Mojave.png></p>
 <p align="center"><img src=os/High_Sierra.png></p>
 <p align="center"><img src=os/Sierra.png></p>
+<p align="center"><img src=os/Win11.png></p>
