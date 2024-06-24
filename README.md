@@ -1,3 +1,4 @@
+<p align="center"><img src=os/Sequoia.png></p>
 <p align="center"><img src=os/Sonoma.png></p>
 <p align="center"><img src=os/Ventura.png></p>
 <p align="center"><img src=os/Monterey.png></p>
